@@ -1,0 +1,55 @@
+[
+    {
+        "Name": "dwef",
+        "Age": "44",
+        "Gender": "male",
+        "ConatactNumber": "575775",
+        "Email": "75775",
+        "Password": "12344"
+    },
+    {
+        "Name": "Tunee",
+        "Age": "21",
+        "Gender": "female",
+        "ConatactNumber": "12345689",
+        "Email": "124",
+        "IdNumber": "23.323",
+        "Password": "12345"
+    },
+    {
+        "Name": "Sami",
+        "Age": "22",
+        "Gender": "male",
+        "NidNumber": "6564168",
+        "ConatactNumber": "01625385175",
+        "Email": "heyiamsaminabi@gmail.com",
+        "Password": "12345"
+    },
+    {
+        "Name": "choti",
+        "Age": "12",
+        "Gender": "male",
+        "ConatactNumber": "01625385175",
+        "Email": "nurjahansmrity474@gmail.com",
+        "IdNumber": "204521",
+        "Password": "choti"
+    },
+    {
+        "Name": "68548",
+        "Age": "5864968",
+        "Gender": "male",
+        "NidNumber": "684",
+        "ConatactNumber": "6847",
+        "Email": "58",
+        "Password": "547544"
+    },
+    {
+        "Name": "Rifah",
+        "Age": "22",
+        "Gender": "female",
+        "ConatactNumber": "+8801625385175",
+        "Email": "elliibnat@gmail.com",
+        "IdNumber": "123456",
+        "Password": "12345"
+    }
+]
